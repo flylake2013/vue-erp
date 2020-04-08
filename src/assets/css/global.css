@@ -1,0 +1,21 @@
+#app,
+html,
+body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.el-table {
+    margin-top: 15px;
+}
+
+.el-pagination {
+    margin-top: 10px;
+    padding-left: 0px;
+}
+
+.btn-prev,
+.btn-next {
+    margin: 0 !important;
+}
